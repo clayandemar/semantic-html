@@ -1,6 +1,6 @@
 [Link to Repo:](https://github.com/clayandemar/semantic-html)
 [Link to Site:](https://clayandemar.github.io/semantic-html/) 
-[Screenshot:](screenshot.png)
+[Screenshot:](screenshot2.png)
 
 # 01 HTML, CSS, and Git: Code Refactor
 
