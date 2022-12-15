@@ -1,11 +1,12 @@
-# 01 HTML, CSS, and Git: Code Refactor
-
 [Link to Repo:](https://github.com/clayandemar/semantic-html)
 [Link to Site:](https://clayandemar.github.io/semantic-html/) 
+[Screenshot:](screenshot.png)
+
+# 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
 
-
+There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
 
 ### Challenge Types 
 
@@ -19,6 +20,7 @@ The two types of Challenges are the following:
 
 Challenges adhere to a format that's commonly used by software development teams that use **agile project management** to manage their work. Practicing this will prepare you for the workflows you'll experience as a professional full-stack web developer. 
 
+> **Deep Dive**: To learn more about agile, read this [Wikipedia article on agile software development](https://en.wikipedia.org/wiki/Agile_software_development).
 
 Each Challenge contains the following elements:
 
